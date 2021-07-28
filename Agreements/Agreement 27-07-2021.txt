@@ -1,0 +1,9 @@
+Agreement's name: Agreement 27/07/2021, Signed by: signedBy
+->Product name: mobre Producto A, price: 16.88
+->->Product name: mobre Product AA1, price: 16.88
+->->Product name: mobre Product AA2, price: 16.77
+->Product name: mobre Producto B, price: 16.88
+->->Product name: mobre Product BB 1, price: 16.88
+->->Product name: mobre Product BB 2, price: 16.88
+->->->Product name: mobre Product BBB1, price: 16.88
+->->->Product name: mobre Product BBB2, price: 16.88787987
